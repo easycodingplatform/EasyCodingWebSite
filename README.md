@@ -1,6 +1,6 @@
 # EasyCodingWebSite
-EasyCoding在线编程平台的前端部分，使用VueJS框架进行开发。目前版本只有单个页面
 ![](./easycodinglogo.png)
+EasyCoding在线编程平台的前端部分，使用VueJS框架进行开发。目前版本只有单个页面
 ## 版本 
 **v1.0.0.190217_alpha**
 
